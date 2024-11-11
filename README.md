@@ -18,7 +18,7 @@ Một chương trình quản lý sinh viên đơn giản được viết bằng 
 ## Hướng dẫn cài đặt và sử dụng
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/student-management.git
+git clone https://github.com/ninhlailaptrinh/Quan_Li_Sinh_Vien.git
 ```
 
 2. Biên dịch chương trình:
